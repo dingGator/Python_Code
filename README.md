@@ -8,4 +8,8 @@ Day 3 Python Bootcamp: if/else, modulo, nesting and elif, multiple ifs
 
 Day 3 Project 1:  Python Pizza
 
-Day 3 Project 2:  Treasure Island 
+Day 3 Project 2:  Treasure Island
+
+Day 4 Project 1:  Rock, Paper, Scissors
+
+Day 5 Project 1: Password Generator
