@@ -1,4 +1,4 @@
-Day 1 of Udemy Python Bootcamp
+Day 1 Python Bootcamp: intro
 
 Day 2 Python Bootcanp: data types, type error, mathematical operations, number manipulation
 
