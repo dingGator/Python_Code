@@ -17,3 +17,6 @@ Day 4 Project 1: Rock, Paper, Scissors
 Day 5 Python Bootcamp: for loops, for loop in range
 
 Day 5 Project 1: Password Generator Project
+
+Day 6 Python Bootcamp: function, Reeborg World 
+
