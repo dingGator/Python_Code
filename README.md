@@ -20,3 +20,8 @@ Day 5 Project 1: Password Generator Project
 
 Day 6 Python Bootcamp: function, Reeborg World 
 
+Day 7 Python Bootcamp:  Hangman game
+
+Day 7 import 1: hangman words
+
+Day 7 import 2: hangman art
