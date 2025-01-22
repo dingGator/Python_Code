@@ -25,3 +25,6 @@ Day 7 Python Bootcamp:  Hangman game
 Day 7 import 1: hangman words
 
 Day 7 import 2: hangman art
+
+Day 8 Python Bootcamp: functions with inputs, positional arguments, keyword arguments
+
