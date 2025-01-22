@@ -18,4 +18,6 @@ Day 8 Project 1: Caesar Cipher for encrytion
 
 Day 8 Project 2: Caesar Cipher for encrytion and decryption
 
-Day 8 Project 3: Caesar Cipher 
+Day 8 Project 3: Caesar Cipher
+
+Day 8 Project 3 Art: import logo
