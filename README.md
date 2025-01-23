@@ -21,3 +21,7 @@ Day 8 Project 2: Caesar Cipher for encrytion and decryption
 Day 8 Project 3: Caesar Cipher
 
 Day 8 Project 3 Art: import logo
+
+Day 9 Project 1: Blind Auction
+
+Day 9 Project 1 Art: import logo
