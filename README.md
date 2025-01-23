@@ -28,3 +28,5 @@ Day 7 import 2: hangman art
 
 Day 8 Python Bootcamp: functions with inputs, positional arguments, keyword arguments
 
+Day 9 Python Bootcamp: dictionaries, nested lists and dictionaries
+
