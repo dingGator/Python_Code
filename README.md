@@ -25,3 +25,7 @@ Day 8 Project 3 Art: Caesar Cipher logo
 Day 9 Project 1: Blind Auction
 
 Day 9 Project 1 Art: Blind Auction logo
+
+Day 10 Project 1: Calculator Project 
+
+Day 10 Project 1 Art: Calculator logo
