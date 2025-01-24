@@ -30,3 +30,5 @@ Day 8 Python Bootcamp: functions with inputs, positional arguments, keyword argu
 
 Day 9 Python Bootcamp: dictionaries, nested lists and dictionaries
 
+Day 10 Python Bootcamp: functions, multiple return values, docstrings
+
