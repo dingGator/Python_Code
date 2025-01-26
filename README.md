@@ -32,3 +32,7 @@ Day 9 Python Bootcamp: dictionaries, nested lists and dictionaries
 
 Day 10 Python Bootcamp: functions, multiple return values, docstrings
 
+Day 11 has only project: Blackjack game
+
+Day 12 Python Bootcamp:  namespaces, block scope, prime number checker test, scope quiz, global vars.
+
