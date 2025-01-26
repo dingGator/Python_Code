@@ -32,4 +32,8 @@ Day 10 Project 1 Art: Calculator logo
 
 Day 11 Project 1: Blackjack
 
-Day 11 Project 1: Blackjack logo
+Day 11 Project 1 Art: Blackjack logo
+
+Day 12 Project 1: Number Guessing
+
+Day 12 Project 1 Art: Number Guessing logo
