@@ -29,3 +29,7 @@ Day 9 Project 1 Art: Blind Auction logo
 Day 10 Project 1: Calculator Project 
 
 Day 10 Project 1 Art: Calculator logo
+
+Day 11 Project 1: Blackjack
+
+Day 11 Project 1: Blackjack logo
