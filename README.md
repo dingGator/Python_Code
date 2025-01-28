@@ -36,3 +36,5 @@ Day 11 has only project: Blackjack game
 
 Day 12 Python Bootcamp:  namespaces, block scope, prime number checker test, scope quiz, global vars.
 
+Day 13 Python Bootcamp: describe the problem, reproduce the bug, play as the computer, fix the errors, use print, use a debugger
+
