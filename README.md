@@ -37,3 +37,9 @@ Day 11 Project 1 Art: Blackjack logo
 Day 12 Project 1: Number Guessing
 
 Day 12 Project 1 Art: Number Guessing logo
+
+Day 13 Project 1: Higher Lower 
+
+Day 13 Project 1 Data: Higher Lower  data
+
+Day 13 Project 1 Art: Higher Lower logo
