@@ -38,3 +38,5 @@ Day 12 Python Bootcamp:  namespaces, block scope, prime number checker test, sco
 
 Day 13 Python Bootcamp: describe the problem, reproduce the bug, play as the computer, fix the errors, use print, use a debugger
 
+Day 13 Maths: import
+
