@@ -40,6 +40,6 @@ Day 12 Project 1 Art: Number Guessing logo
 
 Day 13 Project 1: Higher Lower 
 
-Day 13 Project 1 Data: Higher Lower  data
+Day 14 Project 1 Data: Higher Lower  data
 
-Day 13 Project 1 Art: Higher Lower logo
+Day 14 Project 1 Art: Higher Lower logo
