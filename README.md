@@ -43,3 +43,5 @@ Day 13 Project 1: Higher Lower
 Day 14 Project 1 Data: Higher Lower  data
 
 Day 14 Project 1 Art: Higher Lower logo
+
+Day 15 Project 1:  Coffee Machine
