@@ -44,4 +44,20 @@ Day 14 Project 1 Data: Higher Lower  data
 
 Day 14 Project 1 Art: Higher Lower logo
 
-Day 15 Project 1:  Coffee Machine
+Day 15 Project 1: Coffee Machine
+
+Day 16 Project 1 Object Oriented Programming Coffee Machine
+
+Day 16 Project 1 Coffee Maker: import maker logic
+
+Day 16 Project 1 Money Machine:  import money logic
+
+Day 16 Project 1 Menu: import menu logic
+
+Day 17 Project 1  Object Oriented Programming  Quiz Game
+
+Day 17 Project 1 Data: Quiz Game data
+
+Day 17 Project 1 Question Model: import question and answer 
+
+Day 17 Project 1 Quiz Brain: import process question and answer
