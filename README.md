@@ -67,3 +67,5 @@ Day 18 Project 1 Draw Shape: use turtle to draw shape
 Day 18 Project 2: Draw Spirograph: use turtle to draw spirograph
 
 Day 18 Project 3: Random Walk: use turtle to draw random walk
+
+Day 18 Project 4: Hirst Painting: dots
