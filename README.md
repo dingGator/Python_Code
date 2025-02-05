@@ -70,6 +70,6 @@ Day 18 Project 3: Random Walk: use turtle to draw random walk
 
 Day 18 Project 4: Hirst Painting: dots
 
-Day 19 Project 1 Etch-A-Sketch
+Day 19 Project 1: Etch-A-Sketch
 
-Day 19 Project 2 Turtle Race
+Day 19 Project 2: Turtle Race
