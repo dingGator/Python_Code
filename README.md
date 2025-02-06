@@ -73,3 +73,11 @@ Day 18 Project 4: Hirst Painting: dots
 Day 19 Project 1: Etch-A-Sketch
 
 Day 19 Project 2: Turtle Race
+
+Day 20 Project 1: Snake Game
+
+Day 20 Project 1 Snake: import snake which moves
+
+Day 20 Project 1 Food: import food for snake to eat and score points
+
+Day 20 Project 1 Scoreboard: import for keeping score for snake game
