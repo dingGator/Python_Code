@@ -1,8 +1,8 @@
 Day 1 Python Bootcamp: intro
 
-Day 2 Python Bootcanp: data types, type error, mathematical operations, number manipulation
+Day 2 Python: Bootcanp: data types, type error, mathematical operations, number manipulation
 
-Day 2 Project 1:  Tip Calculator 
+              Day 2 Project 1:  Tip Calculator 
 
 Day 3 Python Bootcamp: if/else, modulo, nesting and elif, multiple ifs
 
