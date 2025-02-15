@@ -12,6 +12,8 @@ Day 3 Project 2:  Treasure Island
 
 Day 4 Python Bootcamp: random, import, lists, index
 
+Day 4 My Module: import for Day 4 Python Bootcamp
+
 Day 4 Project 1: Rock, Paper, Scissors
 
 Day 5 Python Bootcamp: for loops, for loop in range
@@ -65,7 +67,7 @@ Day 13 Python Bootcamp: describe the problem, reproduce the bug,
 
 Day 13 Maths: import
 
-Day 13 Project 1: Higher Lower 
+Day 14 Project 1: Higher Lower game
 
 Day 14 Project 1 Data: Higher Lower  data
 
@@ -101,11 +103,19 @@ Day 19 Project 1: Etch-A-Sketch
 
 Day 19 Project 2: Turtle Race
 
-Day 20 Project 1: Snake Game
+Day 20,21 Project 1: Snake Game
 
-Day 20 Project 1 Snake: import snake which moves
+Day 20,21 Project 1 Snake: import snake which moves
 
-Day 20 Project 1 Food: import food for snake to eat and score points
+Day 20,21 Project 1 Food: import food for snake to eat and score points
 
-Day 20 Project 1 Scoreboard: import for keeping score for snake game
+Day 20,21 Project 1 Scoreboard: import for keeping score for snake game
+
+Day 22 Project 1: Pong game
+
+Day 22 Project 1 Pong game ball: import for Pong game
+
+Day 22 Project 1 Pong game paddle: import for Pong game
+
+Day 22 Project 1 Pong game scoreboard: import for Pong game
 
